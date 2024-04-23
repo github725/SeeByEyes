@@ -1,0 +1,2 @@
+# Hashes of file build rules.
+94be39be9ff70ba1de86ac438e386b3f src/qrc_resources.cpp

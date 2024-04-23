@@ -1,0 +1,92 @@
+{
+	"BUILD_DIR" : "E:/SeeByEyes/SeeByEyes/out/build/src/SeeByEyes_autogen",
+	"CMAKE_BINARY_DIR" : "E:/SeeByEyes/SeeByEyes/out/build",
+	"CMAKE_CURRENT_BINARY_DIR" : "E:/SeeByEyes/SeeByEyes/out/build/src",
+	"CMAKE_CURRENT_SOURCE_DIR" : "E:/SeeByEyes/SeeByEyes/src",
+	"CMAKE_EXECUTABLE" : "D:/Program Files/CMake/bin/cmake.exe",
+	"CMAKE_LIST_FILES" : 
+	[
+		"E:/SeeByEyes/SeeByEyes/src/CMakeLists.txt",
+		"E:/SeeByEyes/SeeByEyes/src/resources.qrc"
+	],
+	"CMAKE_SOURCE_DIR" : "E:/SeeByEyes/SeeByEyes",
+	"DEP_FILE" : "E:/SeeByEyes/SeeByEyes/out/build/src/SeeByEyes_autogen/deps",
+	"DEP_FILE_RULE_NAME" : "SeeByEyes_autogen/timestamp",
+	"HEADERS" : 
+	[
+		[
+			"E:/SeeByEyes/SeeByEyes/src/SBEApp.h",
+			"Mu",
+			"EWIEGA46WW/moc_SBEApp.cpp",
+			null
+		],
+		[
+			"E:/SeeByEyes/SeeByEyes/src/mainwindow.h",
+			"Mu",
+			"EWIEGA46WW/moc_mainwindow.cpp",
+			null
+		],
+		[
+			"E:/SeeByEyes/SeeByEyes/src/ui_templates/ui_mainwindow.h",
+			"Mu",
+			"HRJPPVWX7S/moc_ui_mainwindow.cpp",
+			null
+		]
+	],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "E:/SeeByEyes/SeeByEyes/out/build/src/SeeByEyes_autogen/include",
+	"MOC_COMPILATION_FILE" : "E:/SeeByEyes/SeeByEyes/out/build/src/SeeByEyes_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : [ "QT_CORE_LIB", "QT_GUI_LIB", "QT_WIDGETS_LIB" ],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"D:/Qt/5.15.2/msvc2019_64/include",
+		"D:/Qt/5.15.2/msvc2019_64/include/QtCore",
+		"D:/Qt/5.15.2/msvc2019_64/mkspecs/win32-msvc",
+		"D:/Qt/5.15.2/msvc2019_64/include/QtGui",
+		"D:/Qt/5.15.2/msvc2019_64/include/QtANGLE",
+		"D:/Qt/5.15.2/msvc2019_64/include/QtWidgets",
+		"D:/CLION/CLion 2023.1.3/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++",
+		"D:/CLION/CLion 2023.1.3/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32",
+		"D:/CLION/CLion 2023.1.3/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/backward",
+		"D:/CLION/CLion 2023.1.3/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include",
+		"D:/CLION/CLion 2023.1.3/bin/mingw/include",
+		"D:/CLION/CLion 2023.1.3/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed",
+		"D:/CLION/CLion 2023.1.3/bin/mingw/x86_64-w64-mingw32/include"
+	],
+	"MOC_MACRO_NAMES" : [ "Q_OBJECT", "Q_GADGET", "Q_NAMESPACE", "Q_NAMESPACE_EXPORT" ],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : false,
+	"MOC_PREDEFS_CMD" : 
+	[
+		"D:/CLION/CLion 2023.1.3/bin/mingw/bin/g++.exe",
+		"-dM",
+		"-E",
+		"-c",
+		"D:/Program Files/CMake/share/cmake-3.24/Modules/CMakeCXXCompilerABI.cpp"
+	],
+	"MOC_PREDEFS_FILE" : "E:/SeeByEyes/SeeByEyes/out/build/src/SeeByEyes_autogen/moc_predefs.h",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : [],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 4,
+	"PARSE_CACHE_FILE" : "E:/SeeByEyes/SeeByEyes/out/build/src/CMakeFiles/SeeByEyes_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "D:/Qt/5.15.2/msvc2019_64/bin/moc.exe",
+	"QT_UIC_EXECUTABLE" : "",
+	"QT_VERSION_MAJOR" : 5,
+	"QT_VERSION_MINOR" : 15,
+	"SETTINGS_FILE" : "E:/SeeByEyes/SeeByEyes/out/build/src/CMakeFiles/SeeByEyes_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[ "E:/SeeByEyes/SeeByEyes/src/SBEApp.cpp", "Mu", null ],
+		[ "E:/SeeByEyes/SeeByEyes/src/main.cpp", "Mu", null ],
+		[ "E:/SeeByEyes/SeeByEyes/src/mainwindow.cpp", "Mu", null ]
+	],
+	"VERBOSITY" : 0
+}
