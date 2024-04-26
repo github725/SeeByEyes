@@ -1,7 +1,0 @@
-/mnt/disk/codes/CPP/mypro/SeeByEyes/build/CMakeFiles/edit_cache.dir
-/mnt/disk/codes/CPP/mypro/SeeByEyes/build/CMakeFiles/rebuild_cache.dir
-/mnt/disk/codes/CPP/mypro/SeeByEyes/build/src/CMakeFiles/SeeByEyes.dir
-/mnt/disk/codes/CPP/mypro/SeeByEyes/build/src/CMakeFiles/edit_cache.dir
-/mnt/disk/codes/CPP/mypro/SeeByEyes/build/src/CMakeFiles/rebuild_cache.dir
-/mnt/disk/codes/CPP/mypro/SeeByEyes/build/src/CMakeFiles/SeeByEyes_autogen_timestamp_deps.dir
-/mnt/disk/codes/CPP/mypro/SeeByEyes/build/src/CMakeFiles/SeeByEyes_autogen.dir
