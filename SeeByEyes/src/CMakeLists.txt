@@ -23,10 +23,9 @@ target_link_libraries(SeeByEyes ${PCL_COMMON_LIBRARIES} ${PCL_IO_LIBRARIES} ${PC
 
 # 链接GDAL库
 target_link_libraries(SeeByEyes ${GDAL_LIBRARIES})
-# 链接必要的库（如果需要）
-# target_link_libraries(MyExecutable lib1 lib2 ...)
-# 将qt动态库拷入生成目录
-set(QT_INSTALL_PATH "D:\\Qt\\5.15.2\\msvc2019_64")
+
+# 将qt动态库拷入生成目录 win
+
 
 if (WIN32 AND NOT DEFINED CMAKE_TOOLCHAIN_FILE)
     set(DEBUG_SUFFIX "d")
