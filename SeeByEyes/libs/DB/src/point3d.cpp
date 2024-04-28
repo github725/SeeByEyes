@@ -16,7 +16,7 @@ double Point3D::z() const
     return 0.0;
 }
 
-bool Point3D::isEmpty()
+bool Point3D::isEmpty() const
 {
     return false;
 }

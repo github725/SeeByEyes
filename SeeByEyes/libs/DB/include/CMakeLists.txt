@@ -14,6 +14,7 @@ target_sources(
 		${CMAKE_CURRENT_LIST_DIR}/attributes.h
 		${CMAKE_CURRENT_LIST_DIR}/fields.h
 		${CMAKE_CURRENT_LIST_DIR}/box3d.h
+		${CMAKE_CURRENT_LIST_DIR}/vertexid.h
 
 )
 target_include_directories( ${PROJECT_NAME}

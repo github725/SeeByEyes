@@ -1,0 +1,7 @@
+<RCC>
+	<qresource prefix="/SBE">
+		<file>images/open.svg</file>
+		<file>images/close.svg</file>
+		<file>images/save.svg</file>
+	</qresource>
+</RCC>

@@ -73,6 +73,7 @@ public:
 
     bool contains( const Point3D &point ) const ;
     bool contains( double x, double y, double z ) const ;
+    bool contains( const Box3D &other) const ;
 
 private:
     double m_xmin;

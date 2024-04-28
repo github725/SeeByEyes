@@ -13,5 +13,6 @@ target_sources(
 		${CMAKE_CURRENT_LIST_DIR}/attributes.cpp
 		${CMAKE_CURRENT_LIST_DIR}/fields.cpp
 		${CMAKE_CURRENT_LIST_DIR}/box3d.cpp
+		${CMAKE_CURRENT_LIST_DIR}/vertexid.cpp
 		
 )
